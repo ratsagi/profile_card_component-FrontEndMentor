@@ -1,3 +1,3 @@
 The link to my completed project
 
- http://sagi.profilecard.com/
+ https://ratsagi.github.io/profile_card_component-FrontEndMentor/
